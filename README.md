@@ -56,6 +56,8 @@
 >  
 > - 🖲️ **[Kodi Google Play Store](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&gl=US)**
 > - ![Kodi](https://github.com/victore447/M3uSportsFrance/assets/48101775/ded92ac9-7fe5-431c-ae8a-51e15bbd381b)
+> - 🖲️ **[Sparkle TV-👍Premium Activé (Mac Adess,Xtram,M3u...)](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> - <img width="530" height="269" alt="Sparkle Tv" src="https://github.com/user-attachments/assets/6ee98281-f2be-4614-bb70-9975b5eeb76a" />
 > - 🖲️ **[Premium Mod Ott Tv](https://leeapk.com/ott-navigator-iptv-mod-apk/)**
 > - 🖲️ **[Ott Tv Google Play Store](https://play.google.com/store/apps/details?id=appnovatica.tv&hl=fr&gl=US)**
 > - ![Ott Navigator Google Play Store](https://github.com/victore447/M3uSportsFrance/assets/48101775/86d9a2f8-6516-4f7d-a1e6-89c429e438f3)
@@ -79,7 +81,7 @@
 <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
 👆 Tout d'abort la playlist M3u joint au présent repo contient que des chaines Française (Environ 279).
-  Ne marche que dans kodi via [Iptv Simple Client](https://github.com/kodi-pvr/pvr.iptvsimple) et Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
+Ne marche que dans kodi via Iptv Simple Client et Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
 👆 Par contre il y a des moments certaines chaines Tv ne marchent pas.
   
 - ☝️Comme nous aimons tous du gratuit,Avec le [Fichier M3u Vavoo 👉](https://github.com/victore447/M3uSportsFranceAndMore/blob/main/VavooTo%20M3u8.m3u) & Les Apk Vavoo 📺,Dezor By JokerTv [👉Sources Url](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d) plus de coupures pendant de grands événement sportifs etc...Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
