@@ -56,7 +56,7 @@
 >  
 > - 🖲️ **[Kodi Google Play Store](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&gl=US)**
 > - ![Kodi](https://github.com/victore447/M3uSportsFrance/assets/48101775/ded92ac9-7fe5-431c-ae8a-51e15bbd381b)
-> - 🖲️ **[Sparkle TV-👍Premium Activé (Mac Adess,Xtram,M3u...)](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> - 🖲️ **[Sparkle TV-👍Premium Activé (Mac Adess,Xtream code,M3u etc...)](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
 > - <img width="530" height="269" alt="Sparkle Tv" src="https://github.com/user-attachments/assets/6ee98281-f2be-4614-bb70-9975b5eeb76a" />
 > - 🖲️ **[Premium Mod Ott Tv](https://leeapk.com/ott-navigator-iptv-mod-apk/)**
 > - 🖲️ **[Ott Tv Google Play Store](https://play.google.com/store/apps/details?id=appnovatica.tv&hl=fr&gl=US)**
