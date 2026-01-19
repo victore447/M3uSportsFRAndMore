@@ -1,5 +1,4 @@
 ## 👋Playlist M3u "Sports France 🇫🇷 & Plus (Bein,Canal+,Rmc Sport,Dazn,Ciné+..)"
-![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
 
   ![bein-sports-1-qa-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/90648111-2422-42a7-81bb-18d1ed68ce6e)
   ![bein-sports-2-qa](https://github.com/victore447/M3uSportsFrance/assets/48101775/d2e3e90a-1236-40fa-8a44-40d5d208455c)
@@ -24,8 +23,8 @@
   <img width="132" height="99" alt="MCM fr" src="https://github.com/user-attachments/assets/88bf9022-e76d-4ded-97c6-5085d6b20188" />
   <img width="132" height="99" alt="planete-plus-crime-fr png" src="https://github.com/user-attachments/assets/255c6c1b-cd6f-449b-a2f8-92b0c7702bbe" />
   <img width="132" height="99" alt="trace-africa-fr" src="https://github.com/user-attachments/assets/1c8d44c4-3f83-4dff-a1d3-2b6971c94f74" />
-    
-![SportsLive](https://github.com/victore447/M3uSportsFrance/assets/48101775/047408df-b21e-4163-8506-17b81ed675d1)
+  
+  ![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
 ### <li>- [x] DESCRIPTION DES PLAYLISTS M3U CLASSIQUES: </li>
 ![313](https://github.com/user-attachments/assets/f2d3565e-d686-4997-845e-dfe75547d296)
 ><details>
