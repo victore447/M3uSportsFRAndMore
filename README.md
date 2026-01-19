@@ -95,7 +95,7 @@ Ne marche que dans kodi via Iptv Simple Client et Les liens s'ouvrent directemen
 ![46](https://github.com/user-attachments/assets/93e181d0-4774-47b3-b4a4-195b2b8e1e14)
 <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
-CeS applis IPTV disponiblent pour Android.Vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc.., 
+Acec ces applis IPTV disponiblent pour Android vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc... 
 Seul les Films et series sont en langue allemande,mais d'autres contenus comme des plugins videos sont disponiblent.
 Vous permetent également d'accéder au contenu de diverses autres sources (appelées Bundles).
 
